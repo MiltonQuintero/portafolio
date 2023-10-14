@@ -10,7 +10,7 @@
               <h1 class="text-white">I'M Milton Jr</h1>
               <span class="text-grey">Software Developer</span><br />
 
-              <v-btn tile dark class="text-yellow mt-8" variant="outlined">
+              <v-btn href="https://www.instagram.com/miltonjr__/" tile dark class="text-yellow mt-8" variant="outlined">
                 Contact me
               </v-btn>
             </div>
@@ -44,7 +44,7 @@
           <v-row>
             <v-col cols="12" sm="6">
               <div class="egg">
-                <v-img src="" max-height="300" class=""></v-img>
+                <v-img src="https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg" max-height="200" class="mx-auto"></v-img>
               </div>
             </v-col>
             <v-col cols="12" sm="6">
